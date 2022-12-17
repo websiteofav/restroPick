@@ -24,4 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 3.  After ordering user will get the top three items he has ordered in popular item section.
 4.  Most ordered will have a best seller text next to it.
 5.  Items not available have there add button disabled, this also applies for previously ordered items item if the static data is changed
-6.  No external state management plugin as app has no external api calls or heavy memory usage.
+6.  No external state management plugin has been used as the app has no external api calls or heavy memory usage.
